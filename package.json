@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.7.4",
-    "cashay": "^0.2.0-alpha2",
+    "cashay": "^0.3.2",
     "compression": "1.x.x",
     "express": "4.x.x",
     "graphiql": "^0.3.1",
